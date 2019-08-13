@@ -4,3 +4,4 @@ b=1
 let c=$a+$b
 printf "This is the answer: %d\n" $c
 one add in the math.sh
+one line added by thomasberthelot in math.sh
