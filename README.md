@@ -3,7 +3,9 @@
 >> "Small change to fork"
 ___
 
-~~~ print 'hoge' ~~~
+~~~
+print 'hoge' 
+~~~
 
 ___
 
