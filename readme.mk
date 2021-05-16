@@ -1,4 +1,4 @@
-This is a README file. Enjoy.
+This is a README file. *Enjoy*.
 ============
 A small update.
 ------------
