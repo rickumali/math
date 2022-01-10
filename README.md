@@ -1,3 +1,5 @@
-This is a README file. Enjoy.
+This is a README file. __Enjoy__.
+
 A small update.
-Small change to fork
+
+- [x] Small change to fork
